@@ -1,0 +1,5 @@
+package com.exerciciobackend01.client.services;
+
+public class ClientService {
+
+}

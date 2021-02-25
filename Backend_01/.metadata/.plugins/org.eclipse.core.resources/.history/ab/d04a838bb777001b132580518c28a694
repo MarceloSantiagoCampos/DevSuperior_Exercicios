@@ -1,0 +1,21 @@
+package com.exerciciobackend01.client.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.exerciciobackend01.client.entities.Client;
+import com.exerciciobackend01.client.repositories.ClientRepository;
+
+@Service
+public class ClientService {
+	
+	private ClientRepository repository;
+	
+	
+	public List<Client> findAll(){
+		
+	}
+	
+	
+}

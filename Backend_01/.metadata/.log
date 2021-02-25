@@ -538,3 +538,66 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 18:44:43.452
 !MESSAGE executing callback sts4.classpath.PjXYLlgf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:23.525
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:23.530
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:23.534
+!MESSAGE buffering callback sts4.classpath.PjXYLlgf client false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:23.536
+!MESSAGE executing callback sts4.classpath.PjXYLlgf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:23.544
+!MESSAGE executing callback sts4.classpath.PjXYLlgf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:44.545
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:44.549
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:44.553
+!MESSAGE buffering callback sts4.classpath.PjXYLlgf client false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:44.554
+!MESSAGE executing callback sts4.classpath.PjXYLlgf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:01:44.561
+!MESSAGE executing callback sts4.classpath.PjXYLlgf SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-02-25 19:09:00.390
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:15.114
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:15.120
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:15.124
+!MESSAGE buffering callback sts4.classpath.PjXYLlgf client false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:15.125
+!MESSAGE executing callback sts4.classpath.PjXYLlgf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:15.133
+!MESSAGE executing callback sts4.classpath.PjXYLlgf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:21.611
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:21.616
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:21.618
+!MESSAGE buffering callback sts4.classpath.PjXYLlgf client false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:21.619
+!MESSAGE executing callback sts4.classpath.PjXYLlgf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-25 19:31:21.628
+!MESSAGE executing callback sts4.classpath.PjXYLlgf SUCCESS [done]
