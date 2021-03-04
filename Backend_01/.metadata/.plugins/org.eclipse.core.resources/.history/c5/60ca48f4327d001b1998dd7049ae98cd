@@ -1,0 +1,5 @@
+package com.exerciciobackend01.client.resources.exceptions;
+
+public class StandardError {
+
+}
