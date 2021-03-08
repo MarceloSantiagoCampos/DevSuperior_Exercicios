@@ -59,7 +59,6 @@ INDEX VERSION 1.131+E:\Programação\DevSuperior_Exercicios\Backend_01\.metadata\.
 4288272995.index
 1175390234.index
 2857513097.index
-262142283.index
 4159174214.index
 151877747.index
 451562048.index
