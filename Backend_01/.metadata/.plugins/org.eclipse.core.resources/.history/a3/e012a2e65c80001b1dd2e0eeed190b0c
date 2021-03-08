@@ -15,7 +15,6 @@ import org.springframework.transaction.annotation.Transactional;
 import com.exerciciobackend01.client.dto.ClientDTO;
 import com.exerciciobackend01.client.entities.Client;
 import com.exerciciobackend01.client.repositories.ClientRepository;
-import com.exerciciobackend01.client.services.exceptions.DataBaseException;
 import com.exerciciobackend01.client.services.exceptions.ResourceNotFoundException;
 
 @Service
@@ -70,9 +69,8 @@ public class ClientService {
 		}
 				
 	}
-	
 
-	public void delete(Long id) {
+	public Object delete(Long id) {
 		try {
 			repository.deleteById(id);
 		}
@@ -80,7 +78,7 @@ public class ClientService {
 			throw new ResourceNotFoundException("Id Not Found (" + id + ")");
 		}
 		catch(DataIntegrityViolationException e) {
-			throw new DataBaseException("Integrity Violation");
+			throw 
 		}
 		
 	}
